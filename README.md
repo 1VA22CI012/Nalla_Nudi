@@ -64,9 +64,9 @@ Nalla-Nudi/
    - Press `Shift + F10`.
 
 ## 📝 License
-Copyright © 2026 1VA22CI012. All rights reserved.
+Copyright © 2026 B Shankar Gowda. All rights reserved.
 
 ---
 **Built with ❤️ for educational accessibility.**
 
-**Author: 1VA22CI012**
+**Author: B Shankar Gowda**
