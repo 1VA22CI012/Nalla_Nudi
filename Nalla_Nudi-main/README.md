@@ -2,8 +2,8 @@
 
 **Nalla-Nudi** (ನಲ್ಲ ನುಡಿ) is a premium, Material Design 3-based Android application designed to bridge the language gap for students transitioning from Kannada-medium to English-medium education.
 
-[![View Website](https://img.shields.io/badge/View-Live_Project_Website-6366f1?style=for-the-badge)](https://thrinadh2164.github.io/Nalla_Nudi/)
-[![Download APK](https://img.shields.io/badge/Download-Latest_APK-ec4899?style=for-the-badge)](https://github.com/thrinadh2164/Nalla_Nudi/releases/latest)
+[![View Website](https://img.shields.io/badge/View-Live_Project_Website-6366f1?style=for-the-badge)](https://1VA22CI012.github.io/Nalla_Nudi/)
+[![Download APK](https://img.shields.io/badge/Download-Latest_APK-ec4899?style=for-the-badge)](https://github.com/1VA22CI012/Nalla_Nudi/releases/latest)
 
 ---
 
@@ -54,7 +54,7 @@ Nalla-Nudi/
 
 1. **Clone the Repo**
    ```bash
-   git clone https://github.com/thrinadh2164/Nalla_Nudi.git
+   git clone https://github.com/1VA22CI012/Nalla_Nudi.git
    ```
 2. **Open in Android Studio**
    - Import the project and let Gradle sync.
@@ -64,9 +64,9 @@ Nalla-Nudi/
    - Press `Shift + F10`.
 
 ## 📝 License
-Copyright © 2024 Nalla-Nudi Team. All rights reserved.
+Copyright © 2026 1VA22CI012. All rights reserved.
 
 ---
 **Built with ❤️ for educational accessibility.**
 
-**Author: E Thrinadh Chowdary**
+**Author: 1VA22CI012**
