@@ -56,4 +56,12 @@ fastlane/metadata/android/*
 # Version control
 .git/
 
+# Documentation and Media
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+
 // Author: E Thrinadh Chowdary
